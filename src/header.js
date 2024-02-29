@@ -16,7 +16,8 @@ const headerStyle = {
   alignItems: 'flex-start', // Align items to start (left // Add padding
   color: 'black',
   fontSize: '2em',
-  backgroundColor :'black'
+  backgroundColor :'black',
+  padding: '15px'
 };
 
 const searchContainerStyle = {
