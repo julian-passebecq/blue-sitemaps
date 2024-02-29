@@ -6,7 +6,7 @@ const headerStyle = {
 
   backgroundImage: `url(${image})`,
   backgroundSize: 'contain',
-  repeat: 'no-repeat',
+  backgroundRepeat: 'no-repeat',
   backgroundPosition: 'center',
   width: '100%',
   height: '400px',
