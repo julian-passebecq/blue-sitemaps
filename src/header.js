@@ -17,7 +17,7 @@ const headerStyle = {
   color: 'black',
   fontSize: '2em',
   backgroundColor :'black',
-  padding: '15px'
+  paddingTop: '15px'
 };
 
 const searchContainerStyle = {
