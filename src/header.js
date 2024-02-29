@@ -5,7 +5,8 @@ import image from './banniere3.png';
 const headerStyle = {
 
   backgroundImage: `url(${image})`,
-  backgroundSize: 'cover',
+  backgroundSize: 'contain',
+  repeat: 'no-repeat',
   backgroundPosition: 'center',
   width: '100%',
   height: '400px',
@@ -17,7 +18,7 @@ const headerStyle = {
   color: 'black',
   fontSize: '2em',
   backgroundColor :'black',
-  paddingTop: '15px'
+  
 };
 
 const searchContainerStyle = {
